@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\proje7\proje7\bin\Debug\proje7.exe.config
+C:\Users\User\source\repos\proje7\proje7\bin\Debug\proje7.exe
+C:\Users\User\source\repos\proje7\proje7\bin\Debug\proje7.pdb
+C:\Users\User\source\repos\proje7\proje7\obj\Debug\proje7.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\proje7\proje7\obj\Debug\proje7.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\proje7\proje7\obj\Debug\proje7.Form1.resources
+C:\Users\User\source\repos\proje7\proje7\obj\Debug\proje7.Properties.Resources.resources
+C:\Users\User\source\repos\proje7\proje7\obj\Debug\proje7.csproj.GenerateResource.cache
+C:\Users\User\source\repos\proje7\proje7\obj\Debug\proje7.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\proje7\proje7\obj\Debug\proje7.exe
+C:\Users\User\source\repos\proje7\proje7\obj\Debug\proje7.pdb
